@@ -3,7 +3,7 @@
 .idea
 .vscode
 
-# env
+.env
 .env/
 .venv/
 env/
